@@ -164,7 +164,8 @@ dtb-$(CONFIG_ARCH_ZYNQ) += \
 	zynq-zed.dtb \
 	zynq-zturn.dtb \
 	zynq-zybo.dtb \
-	zynq-zybo-z7.dtb
+	zynq-zybo-z7.dtb \
+	zynq-pynq.dtb
 dtb-$(CONFIG_ARCH_ZYNQMP) += \
 	avnet-ultra96-rev1.dtb			\
 	zynqmp-a2197-revA.dtb			\
